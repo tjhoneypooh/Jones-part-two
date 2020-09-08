@@ -1,2 +1,2 @@
 # Jones-part-two
- Deliverable 2 Front End Bootcamp
+ Deliverable 2 Grand Circus Front-End Bootcamp
